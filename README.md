@@ -110,7 +110,12 @@ Fitness-Logger/
 
 <h2>Acknowledgments</h2>
 <ul>
-     <li>Project By: @mustafaSal95 and @talha-hmd</li>
+    <li>
+        Project By:
+        <a href="https://github.com/mustafaSal95" target="_blank">@mustafaSal95</a>
+        and
+        <a href="https://github.com/talha-hmd" target="_blank">@talha-hmd</a>
+    </li>
     <li>Inspiration and ideas from various fitness tracking apps.</li>
 </ul>
 
