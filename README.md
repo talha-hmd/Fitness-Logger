@@ -110,7 +110,7 @@ Fitness-Logger/
 
 <h2>Acknowledgments</h2>
 <ul>
-    <li>Thanks to all the contributors who help make this project better.</li>
+     <li>Project By: @mustafaSal95 and @talha-hmd</li>
     <li>Inspiration and ideas from various fitness tracking apps.</li>
 </ul>
 
